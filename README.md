@@ -54,8 +54,12 @@ I am a certified  Tester (ISTQB FL) who began her adventure with manual and auto
 ## Technical books read
   - Radosław Smilgin - Zawód tester
   - Gayathri Mohan - Full Stack Testing: A Practical Guide For High Quality Software
-  - Jon Yablonski Law's of UX: uUsing psychology to design better products & Services
+  - Jon Yablonski Law's of UX: Using psychology to design better products & Services
   - Steve Krug - Don't make me think!
+## Blogs
+* [testerzy.pl](http://testerzy.pl)
+* [testerka.pl](http://testerka.pl)
+* [testuj.pl](http://https://testuj.pl)
 ## My test documentation
 - Test plans
 - Test scenarios
@@ -63,3 +67,6 @@ I am a certified  Tester (ISTQB FL) who began her adventure with manual and auto
 - Bug reports
 - Test reports
 - Automated test scripts
+    - [Automation Practice Store - Selenium Tests](https://github.com/KarinaAdamiak/AutomationTestsPracticeSelenium)
+    - [Online Store - Cypress Tests](https://github.com/KarinaAdamiak/Online-Store-Automat)
+    - [ClickUp - E2E API Testing](https://github.com/KarinaAdamiak/Clickup_API_E2E)
