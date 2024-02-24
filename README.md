@@ -1,5 +1,5 @@
 # Portfolio
-## About me
+## About Me
 I am a certified  Tester (ISTQB FL) who began her adventure with manual and automated testing in 2022. I am a well-organized, proactive and thinking out-of-the-box team player, who pays much attention to detail, loves solving problems with her troubleshooting skills and analytical mind, focuses on user experience a lot (UX/UI), and feels responsible for delivering top-notch quality software. 
 ## Tools
   - Jira 
@@ -17,7 +17,7 @@ I am a certified  Tester (ISTQB FL) who began her adventure with manual and auto
   - Teams
   - Slack
   - Outlook
-## Tech skills
+## Tech Skills
   - Writing test documentation including test plans, test scenarios, test cases, checklists, test reports
   -	Executing manual tests including functional tests, exploratory tests, smoke tests, retests and regression tests of web applications
   - Finding, reporting and managing bugs
@@ -27,7 +27,7 @@ I am a certified  Tester (ISTQB FL) who began her adventure with manual and auto
   - Basic coding skills in Java and JavaScript
   - Deep understanding of testing methodology and testing best practices – ISTQB Foundation Level Certificate
   - Familiar with Agile methodolody (Scrum)
-## Soft skills
+## Soft Skills
   - Meticulousness
   - Analytical and critical thinking
   - Attention to detail
@@ -51,7 +51,7 @@ I am a certified  Tester (ISTQB FL) who began her adventure with manual and auto
   - Jira and Confluence (Jira on Props)
   - Software tester with introduction to test automation (Softie.pl)
   - Software Tester (Future Collars)
-## Technical books read
+## Technical Books
   - Radosław Smilgin - Zawód tester
   - Gayathri Mohan - Full Stack Testing: A Practical Guide For High Quality Software
   - Jon Yablonski Law's of UX: Using psychology to design better products & Services
@@ -60,7 +60,7 @@ I am a certified  Tester (ISTQB FL) who began her adventure with manual and auto
 * [testerzy.pl](http://testerzy.pl)
 * [testerka.pl](http://testerka.pl)
 * [testuj.pl](http://https://testuj.pl)
-## My test documentation
+## My Test Documentation
 - Test plans
 - Test scenarios
 - Test cases
