@@ -62,7 +62,7 @@ I am a certified  Tester (ISTQB FL) who began her adventure with manual and auto
 * [testuj.pl](http://https://testuj.pl)
 ## My Test Documentation 
 - Test plans
-    - Test plan PL - Zooplus Store (https://drive.google.com/file/d/1HX-lQC6wDlPngvvHPEmGVb2YC8piyWW0/view?usp=sharing)
+    - Test plan PL - Zooplus Store (https://drive.google.com/file/d/1_3N-2H9O-6J0mw7aqBjDtLTFxzFK-f_C/view?usp=sharing)
 - Test scenarios
 - Test cases
 - Bug reports
