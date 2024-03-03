@@ -60,9 +60,9 @@ I am a certified  Tester (ISTQB FL) who began her adventure with manual and auto
 * [testerzy.pl](http://testerzy.pl)
 * [testerka.pl](http://testerka.pl)
 * [testuj.pl](http://https://testuj.pl)
-## My Test Documentation
+## My Test Documentation 
 - Test plans
-    - [Test plan PL - Zooplus Store] (https://drive.google.com/file/d/1kNxqJ78fTDVrD7-wabATQ3DebzcxfV9s/view?usp=sharing) 
+    - Test plan PL - Zooplus Store (https://drive.google.com/file/d/1HX-lQC6wDlPngvvHPEmGVb2YC8piyWW0/view?usp=sharing)
 - Test scenarios
 - Test cases
 - Bug reports
